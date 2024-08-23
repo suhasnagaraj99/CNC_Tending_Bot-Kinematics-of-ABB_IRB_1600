@@ -1,6 +1,6 @@
 # CNC Tending Bot: Kinematics of ABB IRB 1600
 
-This repository contains the submission for Project2 by Group 2 members - Suhas (suhas99) and Swaraj (swarajmr). The project involves Kinematics of ABB IRB 1600 and Gazebo Simulation
+This repository contains the submission for Project2 by Group 2 members - Suhas (suhas99) and Swaraj (swarajmr). The project involves Kinematics of ABB IRB 1600 and Gazebo Simulation of CNC tending process
 
 ## Repository Structure
 - **suhas99_swarajmr_group2_Project2_Report.pdf**: Containes a detailed description of the project.
