@@ -1,9 +1,9 @@
-# Kinematics of ABB IRB 1600
+# CNC Tending Bot: Kinematics of ABB IRB 1600
 
 This repository contains the submission for Project2 by Group 2 members - Suhas (suhas99) and Swaraj (swarajmr). The project involves Kinematics of ABB IRB 1600 and Gazebo Simulation
 
 ## Repository Structure
-- **Project_report.pdf**: Containes a detailed description of the project.
+- **suhas99_swarajmr_group2_Project2_Report.pdf**: Containes a detailed description of the project.
 - **Assembly Folder**: Contains the part files of the robot links and the final SolidWorks assembly.
 - **Package Folder**: Contains the ROS2 packages `industrial` and `invk`.
 
