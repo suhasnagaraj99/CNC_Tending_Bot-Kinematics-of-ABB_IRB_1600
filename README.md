@@ -2,6 +2,8 @@
 
 This repository contains the submission for Project2 by Group 2 members - Suhas (suhas99) and Swaraj (swarajmr). The project involves Kinematics of ABB IRB 1600 and Gazebo Simulation of CNC tending process
 
+![Video GIF](https://github.com/suhasnagaraj99/CNC_Tending_Bot-Kinematics-of-ABB_IRB_1600/blob/main/kinematics.gif)
+
 ## Repository Structure
 - **suhas99_swarajmr_group2_Project2_Report.pdf**: Containes a detailed description of the project.
 - **Assembly Folder**: Contains the part files of the robot links and the final SolidWorks assembly.
